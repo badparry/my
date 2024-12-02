@@ -1,0 +1,121 @@
+{
+  "common": {
+    "back": "返回",
+    "confirm": "确认",
+    "cancel": "取消",
+    "save": "保存",
+    "edit": "编辑",
+    "delete": "删除",
+    "version": "版本"
+  },
+  "more": {
+    "title": "更多",
+    "account": "账户",
+    "settings": "设置",
+    "support": "支持",
+    "walletManagement": "钱包管理",
+    "security": "安全",
+    "notifications": "通知",
+    "language": "语言",
+    "customerService": "客户服务",
+    "appInfo": "应用信息",
+    "logout": "退出登录",
+    "email": "邮箱",
+    "user": "用户"
+  },
+  "wallet": {
+    "management": {
+      "title": "钱包管理",
+      "backupKey": "备份私钥",
+      "backupKeyDesc": "安全备份您的钱包私钥",
+      "viewMnemonic": "查看助记词",
+      "viewMnemonicDesc": "查看您的12个助记词",
+      "reset": "重置钱包"
+    }
+  },
+  "security": {
+    "title": "安全",
+    "biometric": "生物识别认证",
+    "biometricDesc": "使用生物识别快速认证",
+    "autoLock": "自动锁定",
+    "autoLockDesc": "离开应用时自动锁定",
+    "changePassword": "修改密码",
+    "changePasswordDesc": "修改应用锁定密码",
+    "twoFactor": "两步验证",
+    "twoFactorDesc": "设置两步验证以增加安全性"
+  },
+  "notifications": {
+    "title": "通知",
+    "all": {
+      "title": "所有通知",
+      "description": "开启或关闭所有通知"
+    },
+    "transaction": {
+      "title": "交易通知",
+      "description": "存取款和交易相关通知",
+      "deposit": "存款通知",
+      "withdrawal": "提款通知",
+      "confirmation": "交易确认",
+      "gas": "矿工费变动",
+      "contract": "智能合约执行",
+      "token": "代币授权"
+    },
+    "price": {
+      "title": "价格通知",
+      "description": "价格变动和目标价格通知",
+      "surge": "价格暴涨",
+      "drop": "价格暴跌",
+      "target": "达到目标价格",
+      "marketCap": "市值变动",
+      "volume": "交易量暴增",
+      "news": "关注币种新闻"
+    },
+    "chat": {
+      "title": "聊天通知",
+      "description": "新消息通知",
+      "newMessage": "新消息",
+      "mention": "提及",
+      "invitation": "聊天邀请",
+      "activity": "聊天活动",
+      "notice": "聊天公告",
+      "reaction": "表情回应"
+    }
+  },
+  "support": {
+    "title": "客户服务",
+    "faq": {
+      "title": "常见问题",
+      "description": "查看常见问题的解答"
+    },
+    "chat": {
+      "title": "1:1在线客服",
+      "description": "与客服人员实时聊天"
+    },
+    "email": {
+      "title": "邮件支持",
+      "description": "support@example.com"
+    },
+    "phone": {
+      "title": "电话支持",
+      "description": "工作日 09:00 - 18:00"
+    }
+  },
+  "appInfo": {
+    "title": "应用信息",
+    "version": "版本",
+    "lastUpdate": "最近更新",
+    "developer": "开发商",
+    "license": "许可证",
+    "appName": "加密钱包",
+    "appDesc": "安全便捷的加密货币钱包",
+    "copyright": "© 2024 Example Inc. 保留所有权利。",
+    "terms": "服务条款",
+    "privacy": "隐私政策"
+  },
+  "languages": {
+    "ko": "한국어",
+    "en": "English",
+    "ja": "日本語",
+    "zh": "中文"
+  }
+}

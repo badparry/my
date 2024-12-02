@@ -1,0 +1,121 @@
+{
+  "common": {
+    "back": "戻る",
+    "confirm": "確認",
+    "cancel": "キャンセル",
+    "save": "保存",
+    "edit": "編集",
+    "delete": "削除",
+    "version": "バージョン"
+  },
+  "more": {
+    "title": "その他",
+    "account": "アカウント",
+    "settings": "設定",
+    "support": "サポート",
+    "walletManagement": "ウォレット管理",
+    "security": "セキュリティ",
+    "notifications": "通知",
+    "language": "言語",
+    "customerService": "カスタマーサービス",
+    "appInfo": "アプリ情報",
+    "logout": "ログアウト",
+    "email": "メール",
+    "user": "ユーザー"
+  },
+  "wallet": {
+    "management": {
+      "title": "ウォレット管理",
+      "backupKey": "秘密鍵のバックアップ",
+      "backupKeyDesc": "ウォレットの秘密鍵を安全にバックアップ",
+      "viewMnemonic": "ニーモニックフレーズの表示",
+      "viewMnemonicDesc": "12単語のリカバリーフレーズを確認",
+      "reset": "ウォレットのリセット"
+    }
+  },
+  "security": {
+    "title": "セキュリティ",
+    "biometric": "生体認証",
+    "biometricDesc": "生体認証で素早く認証",
+    "autoLock": "自動ロック",
+    "autoLockDesc": "アプリを離れる時に自動的にロック",
+    "changePassword": "パスワード変更",
+    "changePasswordDesc": "アプリロックパスワードを変更",
+    "twoFactor": "二段階認証",
+    "twoFactorDesc": "追加のセキュリティのために二段階認証を設定"
+  },
+  "notifications": {
+    "title": "通知",
+    "all": {
+      "title": "すべての通知",
+      "description": "すべての通知のオン/オフを切り替え"
+    },
+    "transaction": {
+      "title": "取引通知",
+      "description": "入出金と取引関連の通知",
+      "deposit": "入金通知",
+      "withdrawal": "出金通知",
+      "confirmation": "取引確認",
+      "gas": "ガス料金の変更",
+      "contract": "スマートコントラクトの実行",
+      "token": "トークン承認"
+    },
+    "price": {
+      "title": "価格通知",
+      "description": "価格変動と目標価格の通知",
+      "surge": "価格急騰",
+      "drop": "価格急落",
+      "target": "目標価格到達",
+      "marketCap": "時価総額の変動",
+      "volume": "取引量急増",
+      "news": "お気に入りコインのニュース"
+    },
+    "chat": {
+      "title": "チャット通知",
+      "description": "新規メッセージの通知",
+      "newMessage": "新規メッセージ",
+      "mention": "メンション",
+      "invitation": "チャット招待",
+      "activity": "チャットアクティビティ",
+      "notice": "チャットお知らせ",
+      "reaction": "絵文字リアクション"
+    }
+  },
+  "support": {
+    "title": "カスタマーサービス",
+    "faq": {
+      "title": "よくある質問",
+      "description": "一般的な質問への回答を確認"
+    },
+    "chat": {
+      "title": "1:1チャットサポート",
+      "description": "サポートスタッフとリアルタイムでチャット"
+    },
+    "email": {
+      "title": "メールサポート",
+      "description": "support@example.com"
+    },
+    "phone": {
+      "title": "電話サポート",
+      "description": "平日 09:00 - 18:00"
+    }
+  },
+  "appInfo": {
+    "title": "アプリ情報",
+    "version": "バージョン",
+    "lastUpdate": "最終更新",
+    "developer": "開発元",
+    "license": "ライセンス",
+    "appName": "クリプトウォレット",
+    "appDesc": "安全で便利な暗号資産ウォレット",
+    "copyright": "© 2024 Example Inc. All rights reserved.",
+    "terms": "利用規約",
+    "privacy": "プライバシーポリシー"
+  },
+  "languages": {
+    "ko": "한국어",
+    "en": "English",
+    "ja": "日本語",
+    "zh": "中文"
+  }
+}
