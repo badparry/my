@@ -1,0 +1,121 @@
+{
+  "common": {
+    "back": "Back",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "version": "Version"
+  },
+  "more": {
+    "title": "More",
+    "account": "Account",
+    "settings": "Settings",
+    "support": "Support",
+    "walletManagement": "Wallet Management",
+    "security": "Security",
+    "notifications": "Notifications",
+    "language": "Language",
+    "customerService": "Customer Service",
+    "appInfo": "App Info",
+    "logout": "Logout",
+    "email": "Email",
+    "user": "User"
+  },
+  "wallet": {
+    "management": {
+      "title": "Wallet Management",
+      "backupKey": "Backup Private Key",
+      "backupKeyDesc": "Safely backup your wallet's private key",
+      "viewMnemonic": "View Mnemonic Phrase",
+      "viewMnemonicDesc": "Check your 12-word recovery phrase",
+      "reset": "Reset Wallet"
+    }
+  },
+  "security": {
+    "title": "Security",
+    "biometric": "Biometric Authentication",
+    "biometricDesc": "Quickly authenticate using biometrics",
+    "autoLock": "Auto Lock",
+    "autoLockDesc": "Automatically lock when leaving the app",
+    "changePassword": "Change Password",
+    "changePasswordDesc": "Change your app lock password",
+    "twoFactor": "Two-Factor Authentication",
+    "twoFactorDesc": "Set up two-factor authentication for additional security"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "all": {
+      "title": "All Notifications",
+      "description": "Turn all notifications on or off"
+    },
+    "transaction": {
+      "title": "Transaction Notifications",
+      "description": "Deposit, withdrawal and transaction related notifications",
+      "deposit": "Deposit Notifications",
+      "withdrawal": "Withdrawal Notifications",
+      "confirmation": "Transaction Confirmation",
+      "gas": "Gas Fee Changes",
+      "contract": "Smart Contract Execution",
+      "token": "Token Approval"
+    },
+    "price": {
+      "title": "Price Notifications",
+      "description": "Price changes and target price notifications",
+      "surge": "Price Surge",
+      "drop": "Price Drop",
+      "target": "Target Price Reached",
+      "marketCap": "Market Cap Changes",
+      "volume": "Volume Surge",
+      "news": "Favorite Coin News"
+    },
+    "chat": {
+      "title": "Chat Notifications",
+      "description": "New message notifications",
+      "newMessage": "New Message",
+      "mention": "Mentions",
+      "invitation": "Chat Invitations",
+      "activity": "Chat Activity",
+      "notice": "Chat Announcements",
+      "reaction": "Emoji Reactions"
+    }
+  },
+  "support": {
+    "title": "Customer Service",
+    "faq": {
+      "title": "FAQ",
+      "description": "Find answers to common questions"
+    },
+    "chat": {
+      "title": "1:1 Chat Support",
+      "description": "Chat with our support team in real-time"
+    },
+    "email": {
+      "title": "Email Support",
+      "description": "support@example.com"
+    },
+    "phone": {
+      "title": "Phone Support",
+      "description": "Weekdays 09:00 - 18:00"
+    }
+  },
+  "appInfo": {
+    "title": "App Info",
+    "version": "Version",
+    "lastUpdate": "Last Update",
+    "developer": "Developer",
+    "license": "License",
+    "appName": "Crypto Wallet",
+    "appDesc": "Safe and convenient cryptocurrency wallet",
+    "copyright": "© 2024 Example Inc. All rights reserved.",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy"
+  },
+  "languages": {
+    "ko": "한국어",
+    "en": "English",
+    "ja": "日本語",
+    "zh": "中文"
+  }
+}

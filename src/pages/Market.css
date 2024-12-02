@@ -1,0 +1,53 @@
+.market-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.coin-list {
+  display: grid;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.coin-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.coin-info h3 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.symbol {
+  color: #6c757d;
+  margin-top: 0.3rem;
+}
+
+.coin-price {
+  text-align: right;
+}
+
+.price {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.change {
+  margin: 0.3rem 0 0 0;
+}
+
+.change.positive {
+  color: #28a745;
+}
+
+.change.negative {
+  color: #dc3545;
+}

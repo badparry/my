@@ -1,0 +1,121 @@
+{
+  "common": {
+    "back": "뒤로",
+    "confirm": "확인",
+    "cancel": "취소",
+    "save": "저장",
+    "edit": "수정",
+    "delete": "삭제",
+    "version": "버전"
+  },
+  "more": {
+    "title": "더보기",
+    "account": "계정",
+    "settings": "설정",
+    "support": "지원",
+    "walletManagement": "지갑 관리",
+    "security": "보안",
+    "notifications": "알림",
+    "language": "언어",
+    "customerService": "고객센터",
+    "appInfo": "앱 정보",
+    "logout": "로그아웃",
+    "email": "이메일",
+    "user": "사용자"
+  },
+  "wallet": {
+    "management": {
+      "title": "지갑 관리",
+      "backupKey": "개인키 백업",
+      "backupKeyDesc": "지갑의 개인키를 안전하게 백업하세요",
+      "viewMnemonic": "니모닉 구문 보기",
+      "viewMnemonicDesc": "12개 단어로 이루어진 복구 구문을 확인하세요",
+      "reset": "지갑 초기화"
+    }
+  },
+  "security": {
+    "title": "보안",
+    "biometric": "생체 인증",
+    "biometricDesc": "생체 정보로 빠르게 인증하세요",
+    "autoLock": "자동 잠금",
+    "autoLockDesc": "앱을 나갈 때 자동으로 잠급니다",
+    "changePassword": "비밀번호 변경",
+    "changePasswordDesc": "앱 잠금 비밀번호를 변경합니다",
+    "twoFactor": "2단계 인증",
+    "twoFactorDesc": "추가 보안을 위한 2단계 인증을 설정합니다"
+  },
+  "notifications": {
+    "title": "알림",
+    "all": {
+      "title": "전체 알림",
+      "description": "모든 알림을 켜거나 끕니다"
+    },
+    "transaction": {
+      "title": "거래 알림",
+      "description": "입출금 및 거래 관련 알림",
+      "deposit": "입금 알림",
+      "withdrawal": "출금 알림",
+      "confirmation": "거래 확정 알림",
+      "gas": "가스비 변동 알림",
+      "contract": "스마트 컨트랙트 실행 알림",
+      "token": "토큰 승인 알림"
+    },
+    "price": {
+      "title": "가격 알림",
+      "description": "가격 변동 및 목표가 도달 알림",
+      "surge": "급등 알림",
+      "drop": "급락 알림",
+      "target": "목표가 도달 알림",
+      "marketCap": "시가총액 변동 알림",
+      "volume": "거래량 급증 알림",
+      "news": "관심 코인 뉴스 알림"
+    },
+    "chat": {
+      "title": "채팅 알림",
+      "description": "새로운 메시지 알림",
+      "newMessage": "새 메시지 알림",
+      "mention": "멘션 알림",
+      "invitation": "채팅방 초대 알림",
+      "activity": "채팅방 활동 알림",
+      "notice": "채팅방 공지사항 알림",
+      "reaction": "이모지 반응 알림"
+    }
+  },
+  "support": {
+    "title": "고객센터",
+    "faq": {
+      "title": "자주 묻는 질문",
+      "description": "일반적인 질문들에 대한 답변을 확인하세요"
+    },
+    "chat": {
+      "title": "1:1 채팅 상담",
+      "description": "실시간으로 상담원과 대화하세요"
+    },
+    "email": {
+      "title": "이메일 문의",
+      "description": "support@example.com"
+    },
+    "phone": {
+      "title": "전화 상담",
+      "description": "평일 09:00 - 18:00"
+    }
+  },
+  "appInfo": {
+    "title": "앱 정보",
+    "version": "버전",
+    "lastUpdate": "최근 업데이트",
+    "developer": "개발사",
+    "license": "라이선스",
+    "appName": "크립토 월렛",
+    "appDesc": "안전하고 편리한 암호화폐 지갑",
+    "copyright": "© 2024 Example Inc. All rights reserved.",
+    "terms": "이용약관",
+    "privacy": "개인정보처리방침"
+  },
+  "languages": {
+    "ko": "한국어",
+    "en": "English",
+    "ja": "日本語",
+    "zh": "中文"
+  }
+}
